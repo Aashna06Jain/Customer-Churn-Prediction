@@ -1,16 +1,6 @@
 # Customer-Churn-Prediction
 This project predicts **customer churn** (whether a bank customer will leave) using a **Machine Learning model** built with Python. The project emphasizes data preprocessing, model building, and evaluation, with a simple **Flask-based interface** for demonstration.
 
-## Project Structure
-├── model.py              # ML pipeline: preprocessing, training, saving model/scaler
-├── main.py                # (Optional) Flask app for serving prediction
-├── model.pkl             # Saved trained model
-├── scaler.pkl            # Saved scaler for input features
-├── Churn_Modelling.csv   # Dataset
-├── templates/
-│   └── index.html        # Minimal Flask UI (form + results)
-└── README.md             # Project documentation
-
 ## ✨ Features
 
 ### 🔹 Data Preprocessing
